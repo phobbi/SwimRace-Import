@@ -10,6 +10,6 @@ Postup:
   4. Soubor uložit v původním formátu .xls (97-2003)
   5. V programu SwimRace provést import přihlášek pomocí funkce "Import z Excelu skauti"
  
-Proces úprav může trvat déle než minutu.
+Proces úprav může trvat i několik minut.
 
 macro-main-module.bas   - Hlavní modul Visual Basic makra
